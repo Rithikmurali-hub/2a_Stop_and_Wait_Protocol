@@ -56,7 +56,7 @@ s.close()
 ## OUTPUT
 server.py
 
-<img width="937" height="330" alt="Screenshot 2026-11-04 101339" src="https://github.com/user-attachments/assets/8e42bfe0-5b25-476d-9e48-a60b72c4d0b6" />
+![Uploading Screenshot 2026-11-04 101326.png…]()
 
 client.py
 <img width="937" height="330" alt="Screenshot 2026-11-04 101339" src="https://github.com/user-attachments/assets/bed72e76-dd82-424a-9bc3-1f26c72c62eb" />
